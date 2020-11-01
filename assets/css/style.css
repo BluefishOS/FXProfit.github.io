@@ -713,7 +713,7 @@ p {
   max-width: 430px;
   margin: 0 auto;
   position: relative; }
-  .header-image::before {
+  /*.header-image::before {
     position: absolute;
     content: '';
     width: 100%;
@@ -738,7 +738,7 @@ p {
     z-index: 11; }
   .header-image img {
     position: relative;
-    z-index: 5; }
+    z-index: 5; }*/
 
 .header-social {
   position: absolute;
